@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.hidden {
+  display: none;
+}
+img {
+  width: 40vw;
+  height: 40vh;
+}
+.btn-container {
+  margin: 20px;
+}
+button {
+  margin: 10px;
+}
